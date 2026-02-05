@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["working at Wilson's School"],
+        strings: ["working at John Fisher School"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -71,3 +71,4 @@ $(document).ready(function(){
     });
 
 });
+
